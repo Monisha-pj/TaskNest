@@ -88,8 +88,18 @@ TaskNest empowers users to:
 
 ## Screenshots
 
+Here are some key screenshots from the app:
 
+###  Register Page
+![Register](./Screenshots/Register.png)
 
+###  Login Page
+![Login](./Screenshots/Login.png)
 
+###  Dashboard
+![Dashboard](./Screenshots/DashBoard(2).png)
+
+###  Dashboard
+![Dashboard](./Screenshots/DashBoard(1).png)
 
 
